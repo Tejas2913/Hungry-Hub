@@ -28,7 +28,7 @@ Hungry Hub is a simple and efficient food ordering application that allows users
 ## Contact for Complete Project
 For access to the full project, including both the user and admin sides, please contact:
 
-📞 **Phone:** 9066660386  
+📞 **Phone:** +91 9066660386  
 📧 **Email:** tejasrm2004@gmail.com  
 
 ## License
