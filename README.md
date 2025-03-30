@@ -13,7 +13,7 @@ Hungry Hub is a simple and efficient food ordering application that allows users
 - 🔄 **Regular Services:** Includes user authentication, profile management, and other essential features.
 
 ## Tech Stack
-- **Frontend:** Android (Java/Kotlin)
+- **Frontend:** Kotlin
 - **Backend:** Firebase Realtime Database
 
 ## Installation
