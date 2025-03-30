@@ -1,7 +1,7 @@
 # Hungry Hub - Food Ordering App
 
 ## Overview
-Hungry Hub is a simple and efficient food ordering application that allows users to browse available items, place orders, and receive notifications. This project includes only the **user-side** of the application. 
+Hungry Hub is a simple and efficient food ordering application that allows users to browse available items, place orders, and receive notifications. This repo includes only the **user-side** of the application. 
 
 🚫 **Note:** No payment integration or live tracking is included in this version.
 
@@ -27,6 +27,7 @@ Hungry Hub is a simple and efficient food ordering application that allows users
 
 ## Contact for Complete Project
 For access to the full project, including both the user and admin sides, please contact:
+
 📞 **Phone:** 9066660386  
 📧 **Email:** tejasrm2004@gmail.com  
 
