@@ -34,3 +34,7 @@ For access to the full project, including both the user and admin sides, please 
 ## License
 This project is open-source and can be modified as needed.
 
+## Contributors
+- **Tejas R M** - Backend Developer
+- **Gokul Raj NS** - UI Development (User Side)
+- **K Abhinash Prabhu** - UI Development (Admin Side)
