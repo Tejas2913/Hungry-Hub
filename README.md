@@ -1,13 +1,11 @@
 # **Hungry Hub - Food Ordering App**
 
----
 
 ### Overview
 Hungry Hub is a simple and efficient food ordering application that allows users to browse available items, place orders, and receive notifications. This repo includes only the **user-side** of the application. 
 
 🚫 **Note:** No payment integration, live tracking, or multi-admin support is included in this version.
 
----
 
 ## Features
 - 📜 **Browse Menu:** Users can explore food items available for order.
@@ -20,7 +18,6 @@ Hungry Hub is a simple and efficient food ordering application that allows users
 
 - 🔄 **Regular Services:** Includes user authentication, profile management, and other essential features.
 
----
 
 ## Tech Stack
 - **Frontend:** Kotlin
@@ -38,7 +35,6 @@ Hungry Hub is a simple and efficient food ordering application that allows users
    - Add your `google-services.json` file to the appropriate directory.
 4. **Run the app** on an emulator or physical device.
 
----
 
 ## Future Enhancements
 - 🏢 **Multi-Admin Support:** Enabling multiple admins to manage orders efficiently.
@@ -51,7 +47,6 @@ Hungry Hub is a simple and efficient food ordering application that allows users
 
 - 📊 **Analytics Dashboard:** Insights for users and admins to monitor order trends and preferences.
 
----
 
 ## Contact for Complete Project
 For access to the full project, including both the user and admin sides, please contact:
@@ -59,12 +54,10 @@ For access to the full project, including both the user and admin sides, please 
 📞 **Phone:** +91 9066660386  
 📧 **Email:** tejasrm2004@gmail.com  
 
----
 
 ## License
 This project is **open-source** and can be modified as needed.
 
----
 
 ## Contributors
 👨‍💻 **Tejas R M** - Backend Developer
